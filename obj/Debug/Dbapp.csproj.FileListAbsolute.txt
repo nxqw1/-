@@ -1,0 +1,15 @@
+D:\vs\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\vs\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\vs\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\vs\WindowsFormsApp2\obj\Debug\Dbapp.csprojAssemblyReference.cache
+D:\vs\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Frmstuquery.resources
+D:\vs\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MainFrm.resources
+D:\vs\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\vs\WindowsFormsApp2\obj\Debug\Dbapp.csproj.GenerateResource.cache
+D:\vs\WindowsFormsApp2\obj\Debug\Dbapp.csproj.CoreCompileInputs.cache
+D:\vs\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\vs\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\vs\WindowsFormsApp2\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\vs\WindowsFormsApp2\obj\Debug\Dbapp.csproj.CopyComplete
+D:\vs\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FrmstuUpdate.resources
+D:\vs\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FrmstuInsert.resources
